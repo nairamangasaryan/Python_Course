@@ -6,7 +6,7 @@ print("Today our 1-st lesson")
 # Main topics for 1-st lesson
 print(''' 
 1. Itroduction of the course
-2. About Python
+2. Python and how can be it used 
 3. Types of programming leanguages
 4. Python is an "Interpreating" language
 5. iPython and Python scripts
