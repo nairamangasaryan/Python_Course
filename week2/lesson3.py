@@ -25,4 +25,13 @@ print("""
     
 4. What is GitHub
 5. Creating account in 'github.com'
+6. Conection of local Git repo and GitHub cloud repo
+    - git clone 'GitHub repo link'
+
+    - git remote add origin 'GitHub repo link'
+    - git branch -M main
+    - git push --all
+
+    - git push
+    
 """)
