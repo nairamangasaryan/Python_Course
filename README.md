@@ -1,4 +1,6 @@
 # Python_Course
-Python Course project includs 2 folders: 'week1' and 'week2'
-- 'Week1' folder includes short discription of the 1-st lesson
-- 'Week2' folder includes short discriptions of 2-nd and 3-rd lessons
+Python Course project includes several folders:
+- 'Week1' folder includes short discription of the lesson 1  
+- 'Week2' folder includes short discriptions of lesson 2 and lesson 3
+- 'Week3' folder includes the main topics of lesson 4
+
