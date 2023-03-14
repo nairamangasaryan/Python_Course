@@ -9,4 +9,5 @@ print("""
     - git push # this command is used to upload local repo content to a remote repo
     - git push --all # push all branches from local repo into remote repo
     - git checkout <Commit hash> # reset the commit with mentioned hash number
+    - git cherry-pick <long-hash-here-pasted-from-github> # Git's cherry-pick command allows you to "cherry pick" only the commits you want from another branch.
 """)
